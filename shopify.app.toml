@@ -2,7 +2,7 @@
 
 name = "Accordie"
 client_id = "5200871d329b25c4ad8c5863d9a47657"
-application_url = "https://friendship-parallel-resolution-official.trycloudflare.com"
+application_url = "https://representing-actors-incentive-addresses.trycloudflare.com"
 embedded = true
 
 [access_scopes]
@@ -11,9 +11,9 @@ scopes = "read_themes,read_products"
 
 [auth]
 redirect_urls = [
-  "https://friendship-parallel-resolution-official.trycloudflare.com/auth/callback",
-  "https://friendship-parallel-resolution-official.trycloudflare.com/auth/shopify/callback",
-  "https://friendship-parallel-resolution-official.trycloudflare.com/api/auth/callback"
+  "https://representing-actors-incentive-addresses.trycloudflare.com/auth/callback",
+  "https://representing-actors-incentive-addresses.trycloudflare.com/auth/shopify/callback",
+  "https://representing-actors-incentive-addresses.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
